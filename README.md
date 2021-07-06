@@ -1,9 +1,4 @@
-# Project-Gone-Private
-
-The reason why this project gone private is because there are no contributors, just leechers.
-
-Go make your own app.
-
-Discord: CyberMist2#4911
-
-Paid access
+## How to put hands on Trinity Item Creator
+ - Discord: **CyberMist2#4911**
+ - Shop: http://cybermist2.com/downloads/trinity-item-creator/
+ - Email: CyberMist2@gmail.com
